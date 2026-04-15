@@ -1,0 +1,6 @@
+duckdb==1.5.2
+pandas
+matplotlib
+jupyter
+ipykernel
+pyarrow
